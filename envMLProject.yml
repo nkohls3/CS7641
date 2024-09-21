@@ -1,0 +1,15 @@
+name: envMLProject
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - numpy
+  - opencv
+  - seaborn
+  - pillow
+  - pandas
+  - tqdm
+  - matplotlib
+  - scikit-learn
+  - scipy
+  - pip

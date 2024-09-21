@@ -1,0 +1,6 @@
+22
+5
+Noah Kohls,Sebastian Mettes,Hogan Welch,Matt Lamsey,Tommy Wang
+Handwriting Recognition for Automated Equation Generation
+https://youtu.be/xZKb-CjaZT8
+https://mlamsey.github.io/cs7641-project/
